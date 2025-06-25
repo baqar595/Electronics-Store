@@ -1,0 +1,129 @@
+{
+    "featured": [
+      {
+        "title": "4K LCD",
+        "subtitle": "Quantum Vision LCD",
+        "description": "Limited Time: Online Only!",
+        "image": "resources/hero-Banner-1.2.webp",
+        "button": "Shop Now"
+      },
+      {
+        "title": "4K LCD",
+        "subtitle": "Quantum Vision LCD",
+        "description": "Limited Time: Online Only!",
+        "image": "resources/hero-Banner-1.2.webp",
+        "button": "Shop Now"
+
+      },
+      {
+        "title": "4K LCD",
+        "subtitle": "Quantum Vision LCD",
+        "description": "Limited Time: Online Only!",
+        "image": "resources/hero-Banner-1.2.webp",
+        "button": "Shop Now"
+
+
+      },
+      {
+        "title": "Mobile",
+        "subtitle": "Nexus Mobile Pro 256GB",
+        "description": "Limited Time: Online Only!",
+        "image": "resources/hero-Banner-2.webp"
+      },
+      {
+        "title": "iPadMini",
+        "subtitle": "10 Inch iPad Mini Pro",
+        "description": "Limited Time: Online Only!",
+        "image": "resources/hero-Banner-3.webp"
+      }
+
+
+
+    ],
+    "categories": [
+      {
+        "name": "MacBook/PCs",
+        "items": "3+ items",
+        "image": "resources/cat01.webp",
+        "Price": "null"
+      },
+      {
+        "name": "iPad Mini",
+        "items": "+ items",
+        "image": "resources/cat02.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Laptop",
+        "items": "+ items",
+        "image": "resources/cat03.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Earbuds",
+        "items": "+ items",
+        "image": "resources/cat04.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Keyboard",
+        "items": "10+ items",
+        "image": "resources/cat05.webp",
+        "Price": "null"
+      },
+      {
+        "name": "TV & LCD",
+        "items": "10+ items",
+        "image": "resources/cat06.webp",
+        "Price": "null"
+      },
+      {
+        "name": "RGB Mouse",
+        "items": "10+ items",
+        "image": "resources/cat07.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Mobile Phones",
+        "items": "10+ items",
+        "image": "resources/cat08.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Handsfree",
+        "items": "10+ items",
+        "image": "resources/cat09.webp",
+        "Price": "null"
+      },
+      {
+        "name": "Joysticks",
+        "items": "10+ items",
+        "image": "resources/cat10.webp",
+        "Price": "null"
+      }
+    ]
+    ,
+    "Logos": [
+  {
+    "name": "Samsung",
+    "image": "resources/Brand01.png"
+  },
+  {
+    "name": "Apple", 
+    "image": "resources/Brand02.webp"
+  },
+  {
+    "name": "Sony",
+    "image": "resources/Brand03.png"
+  },
+  {
+    "name": "LG",
+    "image": "resources/Brand04.webp"
+  },
+  {
+    "name": "HP",
+    "image": "resources/Brand05.webp"
+  }
+]
+  }
+  

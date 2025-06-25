@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Ultra Tech Book Plus",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 90000,
+    "discountedPrice": 80000,
+    "discount": 12,
+    "rating": 5,
+    "reviews": 1,
+    "image": "resources/pro02.avif"
+  },
+  {
+    "id": 2,
+    "name": "Ultra Bright LCD",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 2500,
+    "discountedPrice": 2000,
+    "discount": 20,
+    "rating": 5,
+    "reviews": 1,
+    "image": "resources/pro03.avif"
+  },
+  {
+    "id": 3,
+    "name": "Supreme Tech Phone",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 10000,
+    "discountedPrice": 9800,
+    "discount": 2,
+    "rating": 3,
+    "reviews": 1,
+    "image": "resources/pro04.avif"
+  },
+  {
+    "id": 4,
+    "name": "Silent Touch Pro",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 10000,
+    "discountedPrice": 9800,
+    "discount": 2,
+    "rating": 5,
+    "reviews": 1,
+    "image": "resources/pro07.avif"
+  },
+  {
+    "id": 5,
+    "name": "Radiant View LCD",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 98000,
+    "discountedPrice": 90000,
+    "discount": 9,
+    "rating": 5,
+    "reviews": 1,
+    "image": "resources/pro02.avif"
+  },
+  {
+    "id": 6,
+    "name": "Pure Bass Headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur. Est morbi cum...",
+    "originalPrice": 7000,
+    "discountedPrice": 6000,
+    "discount": 15,
+    "rating": 5,
+    "reviews": 1,
+    "image": "resources/pro02.avif"
+  }
+]
